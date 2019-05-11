@@ -1,0 +1,3666 @@
+[
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1854-ford-fiesta-r5-chazel--1215587",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Ford Fiesta R5 \"CHAZEL\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/5/8/7/1215587-20545-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1853-skoda-fabia-r5-vaison-sport--1215554",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Škoda Fabia R5 \"Vaison Sport\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/5/5/4/1215554-20545-85",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1852-ford-fiesta-rs-wrc-px61-awu-arthur-loyd--1215553",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Ford Fiesta RS WRC (PX61 AWU) \"Arthur Loyd\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/5/5/3/1215553-20545-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dms-prod-renault-r8-cx-561-cp--1215424",
+        "brand": "DMS prod",
+        "brandCatno": "",
+        "name": "Renault R8 (CX 561 CP)",
+        "scale": "43",
+        "boxartUrl": "/products/img/4/2/4/1215424-20545-21",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/e2046-fg11539-kuramoto-erika-bunny-version--1215584",
+        "brand": "E2046",
+        "brandCatno": "FG1153",
+        "name": "Kuramoto Erika Bunny Version",
+        "scale": "4",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/4/1215584-12741-91",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/scale75-hff-001-dianne-tianssen--1215504",
+        "brand": "SCALE75",
+        "brandCatno": "HFF-00",
+        "name": "Dianne Tianssen",
+        "scale": "12",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/0/4/1215504-12741-26",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/alpine-miniatures-35265-pz-commander-summer-set--1215440",
+        "brand": "Alpine Miniatures",
+        "brandCatno": "3526",
+        "name": "Pz Commander Summer Set",
+        "scale": "35",
+        "description": "Model set",
+        "boxartUrl": "/products/img/4/4/0/1215440-27767-94",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/alpine-miniatures-35264-pz-commander-summer-2--1215439",
+        "brand": "Alpine Miniatures",
+        "brandCatno": "3526",
+        "name": "Pz Commander Summer #2",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/9/1215439-27767-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/alpine-miniatures-35263-pz-commander-summer-1--1215438",
+        "brand": "Alpine Miniatures",
+        "brandCatno": "3526",
+        "name": "Pz Commander Summer #1",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/8/1215438-27767-22",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m04c-fw190-a8-pattern-3--1215652",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M04",
+        "name": "FW190-A8 (Pattern 3)",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/5/2/1215652-17313-24",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m04c-fw190-a8-pattern-3--1215651",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M04",
+        "name": "FW190-A8 (Pattern 3)",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/5/1/1215651-17313-44",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m04c-fw190-a8-pattern-3--1215650",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M04",
+        "name": "FW190-A8 (Pattern 3)",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/5/0/1215650-17313-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m04b-fw190-a8-pattern-2--1215647",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M04",
+        "name": "FW190-A8 (Pattern 2)",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/7/1215647-17313-36",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m04b-fw190-a8-pattern-2--1215646",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M04",
+        "name": "FW190-A8 (Pattern 2)",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/6/1215646-17313-57",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m04b-fw190-a8-pattern-2--1215644",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M04",
+        "name": "FW190-A8 (Pattern 2)",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/4/1215644-17313-11",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m04a-fw190-a8-pattern-1--1215642",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M04",
+        "name": "FW190-A8 (Pattern 1)",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/2/1215642-17313-51",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m04a-fw190-a8-pattern-1--1215640",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M04",
+        "name": "FW190-A8 (Pattern 1)",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/0/1215640-17313-28",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m04a-fw190-a8-pattern-1--1215639",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M04",
+        "name": "FW190-A8 (Pattern 1)",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/3/9/1215639-17313-10",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m91a-jet-provost-t4--1215637",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M91",
+        "name": "Jet Provost T.4",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/3/7/1215637-17313-58",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m91a-jet-provost-t4--1215636",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M91",
+        "name": "Jet Provost T.4",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/3/6/1215636-17313-82",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m91a-jet-provost-t4--1215635",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M91",
+        "name": "Jet Provost T.4",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/3/5/1215635-17313-76",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/academy-14226-titanic--1215363",
+        "brand": "Academy",
+        "brandCatno": "1422",
+        "name": "TITANIC",
+        "scale": "400",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/3/6/3/1215363-14529-54",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5057657-type-0-model-52-bis-autonomous-space-fighter-black-bird--1215335",
+        "brand": "",
+        "brandCatno": "5057657 (2474517)",
+        "name": "Type 0 Model 52 bis Autonomous Space Fighter Black Bird",
+        "scale": "Bandai Spirits",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/3/3/5/1215335-27767-35",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5057576-ms-06c-6-r6-zaku-ii-type-c-6-r6--1215331",
+        "brand": "Bandai Spirits",
+        "brandCatno": "5057576 (025)",
+        "name": "MS-06C-6/R6 Zaku II Type C-6/R6",
+        "scale": "144",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/3/3/1/1215331-27767-65",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5057656-ms-06s-zaku-ii-red-comet-ver--1215314",
+        "brand": "Bandai Spirits",
+        "brandCatno": "5057656 (024)",
+        "name": "MS-06S Zaku II (Red Comet Ver.)",
+        "scale": "144",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/3/1/4/1215314-27767-84",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aoshima-go-02-mfs-3-mechagodzilla--1215307",
+        "brand": "",
+        "brandCatno": "GO-0",
+        "name": "MFS-3 Mechagodzilla",
+        "scale": "Aoshima",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/3/0/7/1215307-27767-54",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-460567-yamato--1215294",
+        "brand": "Fujimi",
+        "brandCatno": "460567 (001)",
+        "name": "Yamato",
+        "scale": "700",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/9/4/1215294-27767-45",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-5057716-0-0-0-protocol-droid--1215284",
+        "brand": "Bandai",
+        "brandCatno": "505771",
+        "name": "0-0-0 Protocol Droid",
+        "scale": "12",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/8/4/1215284-27411-22",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/special-hobby-ss016-p-40k-short-fuselage-simple-set--1215282",
+        "brand": "Special Hobby",
+        "brandCatno": "SS01",
+        "name": "P-40K /short fuselage/ Simple Set",
+        "scale": "72",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/2/8/2/1215282-14238-40",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aoshima-057537-90-toyota-tcr11w-estima-twin-moon-roof--1215278",
+        "brand": "Aoshima",
+        "brandCatno": "05753",
+        "name": "'90 Toyota TCR11W Estima Twin Moon Roof",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/7/8/1215278-42364-72",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/revell-85-4418-ford-gt-le-mans-2017--1215265",
+        "brand": "Revell",
+        "brandCatno": "85-441",
+        "name": "FORD GT Le Mans 2017",
+        "scale": "24",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/2/6/5/1215265-18039-45",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/colibri-decals-72001-ot-34-76--1215321",
+        "brand": "Colibri Decals",
+        "brandCatno": "7200",
+        "name": "OT-34-76",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/3/2/1/1215321-14238-49",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/infini-model-imp-35029r1-watertight-door-set-c-royal-navy--1215283",
+        "brand": "INFINI Model",
+        "brandCatno": "IMP-35029R",
+        "name": "Watertight Door Set C (Royal Navy)",
+        "scale": "350",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/8/3/1215283-18150-28",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/colibri-decals-72068-t-34-76-mod-1941--1215326",
+        "brand": "Colibri Decals",
+        "brandCatno": "7206",
+        "name": "T-34-76 mod. 1941",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/3/2/6/1215326-14238-92",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/hasegawa-sp405-claire-frost-bunny-girl-w-mig-15--1215277",
+        "brand": "Hasegawa",
+        "brandCatno": "SP405 (09)",
+        "name": "Claire Frost (Bunny Girl) w/MiG-15",
+        "scale": "20",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/7/7/1215277-27767-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/hasegawa-sp405-claire-frost-bunny-girl-w-mig-15--1215277",
+        "brand": "Hasegawa",
+        "brandCatno": "SP405 (09)",
+        "name": "Claire Frost (Bunny Girl) w/MiG-15",
+        "scale": "20",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/7/7/1215277-27767-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/avi-models-avi72010-dh-83-fox-moth--1215185",
+        "brand": "AVI Models",
+        "brandCatno": "AVI7201",
+        "name": "DH 83 Fox Moth",
+        "scale": "72",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/1/8/5/1215185-11185-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-451411-ijn-aircraft-carrier-kaga--1215182",
+        "brand": "Fujimi",
+        "brandCatno": "451411 (FH-22 EX-1)",
+        "name": "IJN Aircraft Carrier Kaga",
+        "scale": "700",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/8/2/1215182-27767-80",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aoshima-057063-electric-locomotive-eh-10--1215180",
+        "brand": "Aoshima",
+        "brandCatno": "057063 (3)",
+        "name": "Electric Locomotive EH 10",
+        "scale": "50",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/8/0/1215180-27767-31",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aoshima-057339-bnr34-skyline-gt-r-hoshino-custom--1215179",
+        "brand": "Aoshima",
+        "brandCatno": "057339 (9)",
+        "name": "BNR34 Skyline GT-R Hoshino Custom",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/7/9/1215179-27767-81",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/avd-models-7056-kamaz-65225-with-chmzap-5247g--1215177",
+        "brand": "AVD Models",
+        "brandCatno": "705",
+        "name": "KAMAZ 65225 with CHMZAP-5247G",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/7/7/1215177-20545-29",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/avd-models-1415-progress-7--1215175",
+        "brand": "AVD Models",
+        "brandCatno": "141",
+        "name": "Progress 7",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/7/5/1215175-20545-24",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/avd-models-1381-gaz-66-kshm-r-142--1215172",
+        "brand": "AVD Models",
+        "brandCatno": "138",
+        "name": "GAZ-66 KSHM R-142",
+        "scale": "43",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/7/2/1215172-20545-25",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/avd-models-1375-maz-205-ac30--1215171",
+        "brand": "AVD Models",
+        "brandCatno": "137",
+        "name": "MAZ 205 AC30",
+        "scale": "43",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/7/1/1215171-20545-30",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/tomytec-la049-m9-and-m93r--1215170",
+        "brand": "Tomytec",
+        "brandCatno": "LA049 (291084)",
+        "name": "M9 & M93R",
+        "scale": "12",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/7/0/1215170-27767-98",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/xinshi-hobby-07314z-tiger-i--1215130",
+        "brand": "Xinshi Hobby",
+        "brandCatno": "07314Z (4)",
+        "name": "Tiger I",
+        "scale": "Egg",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/3/0/1215130-27767-75",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/xinshi-hobby-07315z-sturmtiger--1215129",
+        "brand": "Xinshi Hobby",
+        "brandCatno": "07315Z (3)",
+        "name": "Sturmtiger",
+        "scale": "Egg",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/2/9/1215129-27767-64",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/xinshi-hobby-07316z-m4-sherman--1215128",
+        "brand": "Xinshi Hobby",
+        "brandCatno": "07316Z (2)",
+        "name": "M4 Sherman",
+        "scale": "Egg",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/2/8/1215128-27767-62",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/xinshi-hobby-07317z-kv-2--1215127",
+        "brand": "Xinshi Hobby",
+        "brandCatno": "07317Z (1)",
+        "name": "KV-2",
+        "scale": "Egg",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/2/7/1215127-27767-43",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/lem-kits-weapon-pylons-helicopter-mi-8-mi-17--1215201",
+        "brand": "LEM Kits",
+        "brandCatno": "",
+        "name": "Weapon pylons for the helicopter of Mi-8 / Mi-17",
+        "scale": "35",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/0/1/1215201-26278-89",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/lem-kits-exhaust-heat-shield-trumpeter-mi-24--1215200",
+        "brand": "LEM Kits",
+        "brandCatno": "",
+        "name": "Exhaust-heat shield for the trumpeter Mi-24",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/0/1215200-26278-45",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/shipyard-works-s700005-yamato-pit-road-w200--1215178",
+        "brand": "Shipyard Works",
+        "brandCatno": "S70000",
+        "name": "Yamato for Pit-Road W200",
+        "scale": "700",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/7/8/1215178-27767-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/model-monkey-32-beau-tail-early-bristol-beaufighter-dihedral-tailplanes-early--1215176",
+        "brand": "Model Monkey",
+        "brandCatno": "32-Beau-tail-earl",
+        "name": "Bristol Beaufighter Dihedral Tailplanes (early)",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/7/6/1215176-29191-75",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/microlab-scale-models-zagato43-ignition-coils-ferrari-250tr-315s-335s-ignition-coils--1215154",
+        "brand": "Microlab Scale Models / Zagato43",
+        "brandCatno": "Ignition Coil",
+        "name": "Ferrari 250TR - 315S/335S IGNITION COILS",
+        "scale": "12",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/5/4/1215154-11598-83",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/microlab-scale-models-zagato43-battery-ferrari-250tr-315s-335s-battery--1215151",
+        "brand": "Microlab Scale Models / Zagato43",
+        "brandCatno": "Batter",
+        "name": "Ferrari 250TR - 315S/335S BATTERY",
+        "scale": "12",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/5/1/1215151-11598-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/microlab-scale-models-zagato43-aluminium-parts-ferrari-250tr-315s-335s-instrument-dials--1215147",
+        "brand": "Microlab Scale Models / Zagato43",
+        "brandCatno": "Aluminium part",
+        "name": "Ferrari 250TR - 315S/335S instrument dials.",
+        "scale": "12",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/4/7/1215147-11598-20",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/quickboost-qb48883-firey-firefly-mki-seats-with-seatbelts--1215108",
+        "brand": "Quickboost",
+        "brandCatno": "QB4888",
+        "name": "Firey Firefly Mk.I seats with seatbelts",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/0/8/1215108-15655-40",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1795-peugeot-207-s2000-bl-881-rb-benassi--1215236",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "179",
+        "name": "Peugeot 207 S2000 (BL-881-RB) \"Benassi\"",
+        "scale": "32",
+        "boxartUrl": "/products/img/2/3/6/1215236-20545-12",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1795-peugeot-207-s2000-bl-881-rb-benassi--1215235",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "179",
+        "name": "Peugeot 207 S2000 (BL-881-RB) \"Benassi\"",
+        "scale": "24",
+        "boxartUrl": "/products/img/2/3/5/1215235-20545-96",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1795-peugeot-207-s2000-bl-881-rb-benassi--1215234",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "179",
+        "name": "Peugeot 207 S2000 (BL-881-RB) \"Benassi\"",
+        "scale": "18",
+        "boxartUrl": "/products/img/2/3/4/1215234-20545-55",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1759-peugeot-207-s2000-bz-037-wa-berbiguier--1215233",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "175",
+        "name": "Peugeot 207 S2000 (BZ-037-WA) \"BERBIGUIER\"",
+        "scale": "32",
+        "boxartUrl": "/products/img/2/3/3/1215233-20545-94",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1759-peugeot-207-s2000-bz-037-wa-berbiguier--1215231",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "175",
+        "name": "Peugeot 207 S2000 (BZ-037-WA) \"BERBIGUIER\"",
+        "scale": "24",
+        "boxartUrl": "/products/img/2/3/1/1215231-20545-35",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1759-peugeot-207-s2000-bz-037-wa-berbiguier--1215229",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "175",
+        "name": "Peugeot 207 S2000 (BZ-037-WA) \"BERBIGUIER\"",
+        "scale": "18",
+        "boxartUrl": "/products/img/2/2/9/1215229-20545-78",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/celestial-001-queen-void--1215211",
+        "brand": "",
+        "brandCatno": "00",
+        "name": "Queen of the Void",
+        "scale": "Celestial 102mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/1/1215211-12741-63",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/celestial-002-twilight--1215210",
+        "brand": "",
+        "brandCatno": "00",
+        "name": "Twilight",
+        "scale": "Celestial 75mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/0/1215210-12741-17",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/celestial-005-nuewa--1215209",
+        "brand": "",
+        "brandCatno": "00",
+        "name": "Nüwa",
+        "scale": "Celestial 88mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/9/1215209-12741-84",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/celestial-008-jingwei--1215206",
+        "brand": "",
+        "brandCatno": "00",
+        "name": "Jingwei",
+        "scale": "Celestial 74mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/6/1215206-12741-95",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/lem-kits-1-32-luftwaffe-airfield-staff--1215205",
+        "brand": "LEM Kits",
+        "brandCatno": "",
+        "name": "1:32 luftwaffe airfield staff",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/5/1215205-26278-22",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/lem-kits-1-32-us-navy-flight-deck-carrier-marshall--1215204",
+        "brand": "LEM Kits",
+        "brandCatno": "",
+        "name": "1:32 US Navy Flight Deck Carrier Marshall",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/4/1215204-26278-73",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/lem-kits-1-32-us-navy-pilots-80-00-years--1215203",
+        "brand": "LEM Kits",
+        "brandCatno": "",
+        "name": "1:32 US NAVY Pilots from 80'-00' years",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/3/1215203-26278-89",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/celestial-007-zhurong-overlord-eternal-flame--1215202",
+        "brand": "",
+        "brandCatno": "00",
+        "name": "Zhurong - The Overlord of the Eternal Flame",
+        "scale": "Celestial 140mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/0/2/1215202-12741-34",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/kotobukiya-kp509-megami-device-sol-strike-raptor--1215169",
+        "brand": "Kotobukiya",
+        "brandCatno": "KP509 (9.1)",
+        "name": "Megami Device Sol Strike Raptor",
+        "scale": "1",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/6/9/1215169-27767-34",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/pit-road-j75nh-jmsdf-ddh-184-kaga--1215042",
+        "brand": "Pit-Road",
+        "brandCatno": "J75N",
+        "name": "JMSDF DDH-184 Kaga",
+        "scale": "700",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/0/4/2/1215042-27767-70",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/pit-road-j82nh-jmsdf-dd-119-asahi--1215041",
+        "brand": "Pit-Road",
+        "brandCatno": "J82N",
+        "name": "JMSDF DD-119 Asahi",
+        "scale": "700",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/0/4/1/1215041-27767-48",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/doyusha-cct-4-tiger-i--1215040",
+        "brand": "Doyusha",
+        "brandCatno": "CCT-4 (004890)",
+        "name": "Tiger I",
+        "scale": "Egg",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/0/4/0/1215040-27767-10",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/doyusha-cct-3-sturmtiger--1215039",
+        "brand": "Doyusha",
+        "brandCatno": "CCT-3 (004883)",
+        "name": "Sturmtiger",
+        "scale": "Egg",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/0/3/9/1215039-27767-63",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/doyusha-cct-2-m4-sherman--1215027",
+        "brand": "Doyusha",
+        "brandCatno": "CCT-2 (004876)",
+        "name": "M4 Sherman",
+        "scale": "Egg",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/0/2/7/1215027-27767-45",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/doyusha-cct-1-kv-2--1215026",
+        "brand": "Doyusha",
+        "brandCatno": "CCT-1 (004869)",
+        "name": "KV-2",
+        "scale": "Egg",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/0/2/6/1215026-27767-37",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-046099-nissan-cedric-gloria-turbo-brougham-vip-y30--1215004",
+        "brand": "Fujimi",
+        "brandCatno": "046099 (ID-272)",
+        "name": "Nissan Cedric/Gloria Turbo Brougham VIP Y30",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/0/0/4/1215004-27767-65",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-046105-toyota-supra-30gt-turbo-a--1215002",
+        "brand": "Fujimi",
+        "brandCatno": "046105 (ID-273)",
+        "name": "Toyota Supra 3.0GT Turbo A",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/0/0/2/1215002-27767-13",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aoshima-057391-leopard-f31-90--1214989",
+        "brand": "Aoshima",
+        "brandCatno": "057391 (111)",
+        "name": "Leopard F31 '90",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/9/8/9/1214989-27767-96",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aoshima-057384-odyssey-absolute--1214988",
+        "brand": "Aoshima",
+        "brandCatno": "057384 (109)",
+        "name": "Odyssey Absolute",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/9/8/8/1214988-27767-10",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aquamarine-650761-nergal-nd-001y-y-nadesico--1214980",
+        "brand": "Aquamarine",
+        "brandCatno": "650761 (HCK-02)",
+        "name": "Nergal ND-001Y Y-Nadesico",
+        "scale": "1500",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/9/8/0/1214980-27767-76",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/aquamarine-650754-nergal-nd-001-nadesico-clear-edition--1214975",
+        "brand": "Aquamarine",
+        "brandCatno": "650754 (HCK-01C)",
+        "name": "Nergal ND-001 Nadesico Clear Edition",
+        "scale": "1500",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/9/7/5/1214975-27767-37",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/revell-07531-schlingmann-unimog-rw1--1214967",
+        "brand": "Revell",
+        "brandCatno": "0753",
+        "name": "Schlingmann Unimog RW1",
+        "scale": "24",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/9/6/7/1214967-24595-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/pit-road-gb7019-jmsdf-dd-119-asahi-class-grade-up-parts-set--1215043",
+        "brand": "Pit-Road",
+        "brandCatno": "GB701",
+        "name": "JMSDF DD-119 Asahi Class Grade Up Parts Set",
+        "scale": "700",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/4/3/1215043-27767-28",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/voyager-model-48004-ch-46e-pe-update--1215006",
+        "brand": "Voyager Model",
+        "brandCatno": "4800",
+        "name": "CH-46E PE UPDATE",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/0/6/1215006-35873-52",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-f430-gtc-2418-carephone-warehouse--1215050",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari F430 GTC #2418 \"Carephone Warehouse\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/5/0/1215050-20545-34",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/decals-model-citroen-c3-r5-ew-156-bf-kroon-oil--1215048",
+        "brand": "Decals for Model",
+        "brandCatno": "",
+        "name": "Citroën C3 R5 (EW-156-BF) \"KROON OIL\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/4/8/1215048-20545-52",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/modelmaker-sd48501-mig-29-111-feric-old-scheme--1215028",
+        "brand": "ModelMaker",
+        "brandCatno": "SD4850",
+        "name": "MiG-29 111 Feric old scheme",
+        "scale": "48",
+        "boxartUrl": "/products/img/0/2/8/1215028-32237-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1851-peugeot-208-t16-eb-746-ez-100-ans-yacco--1215022",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Peugeot 208 T16 (EB-746-EZ) \"100 ANS YACCO\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/2/2/1215022-20545-25",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/mk2-jkasp-20s-japanese-kawaii-high-school-girls--1215081",
+        "brand": "MK2",
+        "brandCatno": "JKASP-20",
+        "name": "Japanese Kawaii High School Girls",
+        "scale": "20",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/8/1/1215081-22112-95",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/games-workshop-43-61-havocs--1215076",
+        "brand": "",
+        "brandCatno": "43-6",
+        "name": "Havocs",
+        "scale": "Games Workshop 28mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/7/6/1215076-23814-59",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/games-workshop-43-19-terminators--1215075",
+        "brand": "",
+        "brandCatno": "43-1",
+        "name": "Terminators",
+        "scale": "Games Workshop 28mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/7/5/1215075-23814-50",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-401584-operation-a-ozawa-fleet-kou-set--1215024",
+        "brand": "Fujimi",
+        "brandCatno": "401584 (11)",
+        "name": "Operation A Ozawa Fleet KOU Set",
+        "scale": "3000",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/0/2/4/1215024-27767-12",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/clearprop-cp4801-a2d-skyshark--1214896",
+        "brand": "ClearProp",
+        "brandCatno": "CP480",
+        "name": "A2D Skyshark",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/9/6/1214896-11991-19",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/clearprop-cp72017-ki-51-sonia--1214894",
+        "brand": "ClearProp",
+        "brandCatno": "CP7201",
+        "name": "Ki-51 Sonia",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/9/4/1214894-11991-98",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/balaton-modell-bm7271-mobile-toilet--1214852",
+        "brand": "Balaton Modell",
+        "brandCatno": "BM727",
+        "name": "Mobile toilet",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/5/2/1214852-26775-23",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/takom-2125x-jagdpanther-g1-early-production-w-zimmerit-and-schwerer-plattformwagen-type-ssys--1214845",
+        "brand": "Takom",
+        "brandCatno": "2125",
+        "name": "Jagdpanther G1 Early Production w/Zimmerit & Schwerer Plattformwagen Type SSys",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/4/5/1214845-13385-55",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/master-gm-35-024-mg-42--1214844",
+        "brand": "Master",
+        "brandCatno": "GM-35-02",
+        "name": "MG-42",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/4/4/1214844-13385-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/ajm-models-700-017-hms-express--1214792",
+        "brand": "AJM Models",
+        "brandCatno": "700-01",
+        "name": "HMS Express",
+        "scale": "700",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/9/2/1214792-12140-62",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/quickboost-qb48882-firey-firefly-mki-radiator-trumpeter--1214934",
+        "brand": "Quickboost",
+        "brandCatno": "QB4888",
+        "name": "Firey Firefly Mk.I radiator - Trumpeter -",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/3/4/1214934-15655-67",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-w35004-wooden-table-and-chairs--1214928",
+        "brand": "Black Dog",
+        "brandCatno": "W3500",
+        "name": "Wooden table and chairs",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/8/1214928-50095-49",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-d72056-vietnam-hue-street-base--1214927",
+        "brand": "Black Dog",
+        "brandCatno": "D7205",
+        "name": "Vietnam Hue street base",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/7/1214927-50095-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-d72055-airfield-ww-ii-base--1214926",
+        "brand": "Black Dog",
+        "brandCatno": "D7205",
+        "name": "Airfield WW II base",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/6/1214926-50095-64",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-f32067-german-luftwaffe-pilot--1214921",
+        "brand": "Black Dog",
+        "brandCatno": "F3206",
+        "name": "German Luftwaffe Pilot",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/1/1214921-50095-61",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-a72054-sea-king-aew-2-engine--1214910",
+        "brand": "Black Dog",
+        "brandCatno": "A7205",
+        "name": "Sea King AEW 2 Engine",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/1/0/1214910-44600-53",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-a72053-mh-53e-sea-dragon-engines-resin-equipment-set--1214909",
+        "brand": "Black Dog",
+        "brandCatno": "A7205",
+        "name": "MH-53E Sea Dragon Engines Resin equipment Set",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/0/9/1214909-50095-57",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-a72052-havilland-mosquito-mk-vi-big-set--1214908",
+        "brand": "Black Dog",
+        "brandCatno": "A7205",
+        "name": "De Havilland Mosquito Mk VI Big set",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/0/8/1214908-12144-64",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-a72051-havilland-mosquito-mk-vi-set-n-2--1214907",
+        "brand": "Black Dog",
+        "brandCatno": "A7205",
+        "name": "De Havilland Mosquito Mk VI set N°2",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/0/7/1214907-50095-59",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-a72050-havilland-mosquito-mk-vi-set-n-1--1214906",
+        "brand": "Black Dog",
+        "brandCatno": "A7205",
+        "name": "De Havilland Mosquito Mk VI set N°1",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/0/6/1214906-50095-55",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/black-dog-a48082-beechcraft-aqm-37-jayhawk--1214905",
+        "brand": "Black Dog",
+        "brandCatno": "A4808",
+        "name": "Beechcraft AQM-37 Jayhawk",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/0/5/1214905-50095-96",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/shapeways-004d-f-15-open-nozzle-frosted-detail--1214851",
+        "brand": "Shapeways",
+        "brandCatno": "004",
+        "name": "F-15 Open Nozzle - Frosted Detail",
+        "scale": "144",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/5/1/1214851-11761-84",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/resicast-351283-wwi-6inch-gun--1214838",
+        "brand": "Resicast",
+        "brandCatno": "35128",
+        "name": "WWI 6inch gun",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/3/8/1214838-13385-30",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/model-cellar-mc35134-wwi-british-8-inch-howitzer-mkvi-wheel-detail-set--1214837",
+        "brand": "Model Cellar",
+        "brandCatno": "MC3513",
+        "name": "WWI British 8-inch Howitzer Mk.VI Wheel Detail Set",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/3/7/1214837-13385-18",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-unkown-fiat-abarth-2000-s--1214956",
+        "brand": "Le Mans Decals",
+        "brandCatno": "unkow",
+        "name": "Fiat Abarth 2000 S",
+        "scale": "43",
+        "boxartUrl": "/products/img/9/5/6/1214956-20545-53",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-unkown-ford-capri-rs--1214954",
+        "brand": "Le Mans Decals",
+        "brandCatno": "unkow",
+        "name": "Ford Capri RS",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/5/4/1214954-20545-65",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf0xx-hyundai-i20-coupe-wrc-alz-wr-35-shell--1214889",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF0x",
+        "name": "Hyundai i20 Coupe WRC (ALZ WR 35) \"Shell\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/8/9/1214889-20545-96",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf0xx-hyundai-i20-coupe-wrc-shell--1214886",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF0x",
+        "name": "Hyundai i20 Coupe WRC \"Shell\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/8/6/1214886-20545-96",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf019-peugeot-306-maxi-ab-377-aa-celfa--1214884",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF01",
+        "name": "Peugeot 306 Maxi (AB 377 AA) \"C.E.L.F.A.\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/8/4/1214884-20545-16",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf020-peugeot-306-maxi-ab-377-aa-benedetti--1214883",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Peugeot 306 Maxi (AB 377 AA) \"benedetti\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/8/3/1214883-20545-19",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf021-peugeot-207-s2000-bl-881-rb-eil--1214877",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Peugeot 207 S2000 (BL-881-RB) \"Eil\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/7/1214877-20545-34",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf022-citroen-ds3-r5-cw-975-kc-eil--1214876",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Citroën DS3 R5 (CW-975-KC) \"Eil\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/6/1214876-20545-77",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf023-renault-clio-williams--1214875",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Renault Clio Williams",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/5/1214875-20545-74",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf024-renault-clio-williams-jeredi-caimi--1214874",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Renault Clio Williams \"JEREDI CAIMI\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/4/1214874-20545-31",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf025-ford-escort-rs-cosworth-pennacchi--1214873",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Ford Escort RS Cosworth \"PENNACCHI\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/3/1214873-20545-62",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf026-skoda-fabia-r5-1-sey-955-unix--1214872",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Škoda Fabia R5 (1-SEY-955) \"UNIX\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/2/1214872-20545-45",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf027-peugeot-106-rallye-rte-uono--1214870",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Peugeot 106 Rallye \"RTE UONO\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/7/0/1214870-20545-53",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf028-ford-fiesta-r5-fb-116-wc-hankook--1214849",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF02",
+        "name": "Ford Fiesta R5 (FB 116 WC) \"HANKOOK\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/4/9/1214849-20545-50",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1850-citroen-c3-r5-ew-127-bf-total--1214846",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Citroën C3 R5 (EW-127-BF) \"TOTAL\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/4/6/1214846-20545-24",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fishbone-inc-fb72003-royal-malaysian-air-force-su-30mkm-all--1214816",
+        "brand": "Fishbone Inc.",
+        "brandCatno": "FB7200",
+        "name": "Royal Malaysian Air Force Su-30MKM [ALL]",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/1/6/1214816-51164-47",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/fishbone-inc-fb72014-israeli-f-35i-adir-115-tajeset-what-if--1214815",
+        "brand": "Fishbone Inc.",
+        "brandCatno": "FB7201",
+        "name": "Israeli F-35i Adir 115 Tajeset (What-if)",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/1/5/1214815-51164-71",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fishbone-inc-fb48012-rmaf-bae-hawk-mk100-200-25th-anniversary-decal--1214813",
+        "brand": "Fishbone Inc.",
+        "brandCatno": "FB4801",
+        "name": "RMAF BAe Hawk Mk.100/200 25th Anniversary decal",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/1/3/1214813-51164-62",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/amati-1714-01-ciwl-orient-express-1929--1214730",
+        "brand": "Amati",
+        "brandCatno": "1714/0",
+        "name": "CIWL Orient Express of 1929",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/0/1214730-50095-57",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/academy-12328-north-american-b-25d--1214729",
+        "brand": "Academy",
+        "brandCatno": "1232",
+        "name": "North American B-25D",
+        "scale": "48",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/2/9/1214729-12741-30",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-ml-no13-jgsdf-1-2t-light-truck--1214697",
+        "brand": "Fujimi",
+        "brandCatno": "ML, No.1",
+        "name": "JGSDF 1/2t Light Truck",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/6/9/7/1214697-10934-11",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-ml-no12-jgsdf-1-2t-light-truck--1214695",
+        "brand": "Fujimi",
+        "brandCatno": "ML, No.1",
+        "name": "JGSDF 1/2t Light Truck",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/9/5/1214695-10934-28",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/platz-ae-14-arado-ar-234b-blitz--1214694",
+        "brand": "Platz",
+        "brandCatno": "AE-1",
+        "name": "Arado Ar 234B Blitz",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/6/9/4/1214694-27767-18",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/platz-khk144-12-raiden-gyu-gyu-land-ver--1214693",
+        "brand": "Platz",
+        "brandCatno": "KHK144-1",
+        "name": "Raiden Gyu-gyu-land ver.",
+        "scale": "144",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/6/9/3/1214693-27767-88",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/tempmodels-72343-correction-set-su-34-trumpeter--1214738",
+        "brand": "Tempmodels",
+        "brandCatno": "7234",
+        "name": "Correction set for Su-34 Trumpeter",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/8/1214738-49949-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/tempmodels-48343-correction-set-su-34-hobby-boss--1214737",
+        "brand": "Tempmodels",
+        "brandCatno": "4834",
+        "name": "Correction set for Su-34 Hobby Boss",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/7/1214737-49949-21",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/atak-model-35068-zimmerit-king-tiger-porsche-turret-meng--1214670",
+        "brand": "Atak Model",
+        "brandCatno": "3506",
+        "name": "Zimmerit King Tiger (Porsche Turret) for MENG",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/7/0/1214670-21870-66",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dms-prod-skoda-fabia-r5-eleclerc--1214752",
+        "brand": "DMS prod",
+        "brandCatno": "",
+        "name": "Škoda Fabia R5 \"E.Leclerc\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/5/2/1214752-20545-82",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dms-prod-skoda-fabia-r5-eleclerc--1214751",
+        "brand": "DMS prod",
+        "brandCatno": "",
+        "name": "Škoda Fabia R5 \"E.Leclerc\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/5/1/1214751-20545-88",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dms-prod-skoda-fabia-r5-11r-0147-minerva-oil--1214750",
+        "brand": "DMS prod",
+        "brandCatno": "",
+        "name": "Škoda Fabia R5 (11R 0147) \"MINERVA OIL\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/5/0/1214750-20545-93",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1849-ford-fiesta-rs-wrc-px61-awu-arthur-loyd--1214744",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "184",
+        "name": "Ford Fiesta RS WRC (PX61 AWU) \"Arthur Loyd\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/4/4/1214744-20545-26",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1848-ford-fiesta-r5-k5-msrt3-yacco--1214743",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "184",
+        "name": "Ford Fiesta R5 (K5 MSRT3) \"YACCO\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/4/3/1214743-20545-27",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/revaro-rg-055-il-14-chosonminhang--1214740",
+        "brand": "Revaro",
+        "brandCatno": "RG–В05",
+        "name": "Il-14 Chosonminhang",
+        "scale": "87",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/4/0/1214740-13641-38",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/revaro-rg-049-il-14-interflug--1214739",
+        "brand": "Revaro",
+        "brandCatno": "RG–В04",
+        "name": "Il-14 Interflug",
+        "scale": "87",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/9/1214739-13641-72",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/exito-decals-ed72004-luftwaffe-ground-attackers-vol1--1214736",
+        "brand": "Exito Decals",
+        "brandCatno": "ED7200",
+        "name": "Luftwaffe Ground Attackers vol.1",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/6/1214736-14238-42",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/exito-decals-ed72004-luftwaffe-ground-attackers-vol1--1214736",
+        "brand": "Exito Decals",
+        "brandCatno": "ED7200",
+        "name": "Luftwaffe Ground Attackers vol.1",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/6/1214736-14238-42",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/exito-decals-ed72004-luftwaffe-ground-attackers-vol1--1214736",
+        "brand": "Exito Decals",
+        "brandCatno": "ED7200",
+        "name": "Luftwaffe Ground Attackers vol.1",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/3/6/1214736-14238-42",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-003-aircraft-tintin-part-3--1214719",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - Part 3",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/9/1214719-17841-94",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-003-aircraft-tintin-part-3--1214719",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - Part 3",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/9/1214719-17841-94",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-003-aircraft-tintin-part-3--1214719",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - Part 3",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/9/1214719-17841-94",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-003-aircraft-tintin-part-3--1214719",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - Part 3",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/9/1214719-17841-94",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-005-aircraft-tintin-noir-et-blanc-special-edition--1214716",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - 'noir et blanc' SPECIAL EDITION",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/6/1214716-17841-25",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-005-aircraft-tintin-noir-et-blanc-special-edition--1214716",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - 'noir et blanc' SPECIAL EDITION",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/6/1214716-17841-25",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-005-aircraft-tintin-noir-et-blanc-special-edition--1214716",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - 'noir et blanc' SPECIAL EDITION",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/6/1214716-17841-25",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-005-aircraft-tintin-noir-et-blanc-special-edition--1214716",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - 'noir et blanc' SPECIAL EDITION",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/6/1214716-17841-25",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-005-aircraft-tintin-noir-et-blanc-special-edition--1214716",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-00",
+        "name": "The Aircraft of Tintin - 'noir et blanc' SPECIAL EDITION",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/6/1214716-17841-25",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-012-aircraft-tintin-part-4--1214712",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 4",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/2/1214712-17841-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-012-aircraft-tintin-part-4--1214712",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 4",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/2/1214712-17841-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-012-aircraft-tintin-part-4--1214712",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 4",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/2/1214712-17841-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-012-aircraft-tintin-part-4--1214712",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 4",
+        "scale": "72",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/1/2/1214712-17841-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-015-aircraft-tintin-part-7--1214711",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 7",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/1/1214711-17841-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-015-aircraft-tintin-part-7--1214711",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 7",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/1/1214711-17841-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-015-aircraft-tintin-part-7--1214711",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 7",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/1/1214711-17841-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-015-aircraft-tintin-part-7--1214711",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 7",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/1/1214711-17841-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-015-aircraft-tintin-part-7--1214711",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 7",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/1/1214711-17841-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-014-aircraft-tintin-part-6--1214710",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 6",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/0/1214710-17841-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-013-aircraft-tintin-part-5--1214709",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 5",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/0/9/1214709-17841-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-013-aircraft-tintin-part-5--1214709",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 5",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/0/9/1214709-17841-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-013-aircraft-tintin-part-5--1214709",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 5",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/0/9/1214709-17841-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-013-aircraft-tintin-part-5--1214709",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 5",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/0/9/1214709-17841-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-013-aircraft-tintin-part-5--1214709",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 5",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/0/9/1214709-17841-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/blue-rider-cd-013-aircraft-tintin-part-5--1214709",
+        "brand": "Blue Rider",
+        "brandCatno": "CD-01",
+        "name": "The Aircraft of Tintin - Part 5",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/0/9/1214709-17841-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf018-ford-fiesta-r5-px14-hvg-united--1214703",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF01",
+        "name": "Ford Fiesta R5 (PX14 HVG) \"UNITED\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/0/3/1214703-20545-93",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf017-ford-fiesta-rs-wrc-px12-cpz-liqui-moly--1214702",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF01",
+        "name": "Ford Fiesta RS WRC (PX12 CPZ) \"LIQUI MOLY\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/0/2/1214702-20545-88",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/mf-modellismo-mf016-ford-fiesta-rs-wrc-px14-hhy-liqui-moly--1214701",
+        "brand": "M.F modellismo",
+        "brandCatno": "MF01",
+        "name": "Ford Fiesta RS WRC (PX14 HHY) \"LIQUI MOLY\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/0/1/1214701-20545-22",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/wave-mk-057-safs-super-armored-fighting-suit--1214688",
+        "brand": "Wave",
+        "brandCatno": "Mk-05",
+        "name": "S.A.F.S. Super Armored Fighting Suit",
+        "scale": "20",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/6/8/8/1214688-20006-20",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/flame-toys-01b-nemesis-prime--1214593",
+        "brand": "",
+        "brandCatno": "01",
+        "name": "Nemesis Prime",
+        "scale": "Flame Toys 155mm",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/5/9/3/1214593-12551-85",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/flame-toys-01-optimus-prime--1214592",
+        "brand": "",
+        "brandCatno": "0",
+        "name": "Optimus Prime",
+        "scale": "Flame Toys 155mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/9/2/1214592-12551-21",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/platz-khk144-11-zero-fighter-type-21-ugaden-ver-sakuragaoka-knights-ver--1214549",
+        "brand": "Platz",
+        "brandCatno": "KHK144-1",
+        "name": "Zero Fighter Type 21 Ugaden ver./Sakuragaoka Knights ver.",
+        "scale": "144",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/5/4/9/1214549-27767-88",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/platz-khk144-10-hiryu-air-pirates-301-ver--1214547",
+        "brand": "Platz",
+        "brandCatno": "KHK144-1",
+        "name": "Hiryu Air Pirates 301 ver.",
+        "scale": "144",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/5/4/7/1214547-27767-76",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/platz-khk72-6-zero-fighter-type-21-ugaden-ver-sakuragaoka-knights-ver--1214546",
+        "brand": "Platz",
+        "brandCatno": "KHK72-",
+        "name": "Zero Fighter Type 21 Ugaden ver./Sakuragaoka Knights ver.",
+        "scale": "72",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/5/4/6/1214546-27767-72",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/platz-khk144-9-zero-fighter-type-52-air-pirates-301-ver--1214545",
+        "brand": "Platz",
+        "brandCatno": "KHK144-",
+        "name": "Zero Fighter Type 52 Air Pirates 301 ver.",
+        "scale": "144",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/5/4/5/1214545-27767-91",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/platz-khk144-8-fugaku-ikesuka-ver--1214539",
+        "brand": "Platz",
+        "brandCatno": "KHK144-",
+        "name": "Fugaku Ikesuka Ver.",
+        "scale": "144",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/5/3/9/1214539-27767-80",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5056757-ex-s-gundam-s-gundam--1214538",
+        "brand": "Bandai Spirits",
+        "brandCatno": "5056757 (2436526)",
+        "name": "Ex-S Gundam / S Gundam",
+        "scale": "100",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/5/3/8/1214538-27767-84",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/legend-productions-lf1366-merkava-4m-hull-basket-set--1214517",
+        "brand": "Legend Productions",
+        "brandCatno": "LF136",
+        "name": "Merkava 4M Hull Basket set",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/1/7/1214517-27836-75",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/caracal-models-cd144021-douglas-c-133-cargomaster--1214490",
+        "brand": "Caracal Models",
+        "brandCatno": "CD14402",
+        "name": "Douglas C-133 Cargomaster",
+        "scale": "144",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/9/0/1214490-11761-83",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/games-workshop-92-08-sisters-thorn--1214634",
+        "brand": "",
+        "brandCatno": "92-0",
+        "name": "Sisters of the Thorn",
+        "scale": "Games Workshop 28mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/3/4/1214634-23814-76",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/games-workshop-43-13-raptors--1214578",
+        "brand": "",
+        "brandCatno": "43-1",
+        "name": "Raptors",
+        "scale": "Games Workshop 28mm",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/7/8/1214578-23814-84",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm24-m23a-bf-109g-10-regensburg-mtt--1214604",
+        "brand": "TopNotch",
+        "brandCatno": "TNM24-M23",
+        "name": "BF 109G-10 REGENSBURG/MTT",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/0/4/1214604-17313-75",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m23a-bf-109g-10-regensburg-mtt--1214602",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M23",
+        "name": "BF 109G-10 REGENSBURG/MTT",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/0/2/1214602-17313-91",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m23a-bf-109g-10-regensburg-mtt--1214599",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M23",
+        "name": "BF 109G-10 REGENSBURG/MTT",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/9/9/1214599-17313-26",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m23a-bf-109g-10-regensburg-mtt--1214597",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M23",
+        "name": "BF 109G-10 REGENSBURG/MTT",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/9/7/1214597-17313-27",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m92-tornado--1214589",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M9",
+        "name": "Tornado",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/9/1214589-17313-83",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m92-tornado--1214587",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M9",
+        "name": "Tornado",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/7/1214587-17313-50",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m92-tornado--1214586",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M9",
+        "name": "Tornado",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/6/1214586-17313-86",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-ir003-spitfire-mk-ixc-mylcraine--1214585",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-IR00",
+        "name": "Spitfire MK IXc Mylcraine",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/5/1214585-17313-23",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-ir003-spitfire-mk-ixc-mylcraine--1214584",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-IR00",
+        "name": "Spitfire MK IXc Mylcraine",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/4/1214584-17313-51",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-ir003-spitfire-mk-ixc-mylcraine--1214583",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-IR00",
+        "name": "Spitfire MK IXc Mylcraine",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/3/1214583-17313-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-iu071-f-86-korea--1214581",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-iU07",
+        "name": "F-86 Korea",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/8/1/1214581-17313-80",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-iu071-f-86-korea--1214579",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-iU07",
+        "name": "F-86 Korea",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/7/9/1214579-17313-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/ebbro-25012-renault-4-fourgonnette--1214438",
+        "brand": "Ebbro",
+        "brandCatno": "2501",
+        "name": "Renault 4 Fourgonnette",
+        "scale": "24",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/4/3/8/1214438-27767-56",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5057575-maganac--1214437",
+        "brand": "",
+        "brandCatno": "5057575 (223)",
+        "name": "Maganac",
+        "scale": "Bandai Spirits",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/7/1214437-27767-58",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/kotobukiya-zd121-liger-zero--1214436",
+        "brand": "Kotobukiya",
+        "brandCatno": "ZD121 (HMM 022)",
+        "name": "Liger Zero",
+        "scale": "72",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/4/3/6/1214436-27767-42",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5057068-kamen-rider-geiz--1214435",
+        "brand": "",
+        "brandCatno": "5057068 (2458133)",
+        "name": "Kamen Rider Geiz",
+        "scale": "Bandai Spirits",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/5/1214435-27767-63",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35232-tracks-m26-pershing-steel-track-type--1214432",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3523",
+        "name": "Tracks for M26 Pershing steel track type",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35215-tracks-m551-sheridan--1214431",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3521",
+        "name": "Tracks for M551 Sheridan",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35192-tracks-t-18-cast-type--1214430",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3519",
+        "name": "Tracks for T-18 cast type",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35191-tracks-hotchkiss-h35-h39--1214429",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3519",
+        "name": "Tracks for Hotchkiss H35/H39",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35186-tracks-matilda-flat-type-with-welded-grouser--1214428",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3518",
+        "name": "Tracks for Matilda Flat type with welded grouser",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35184-tracks-matilda-td5910-cast-type--1214427",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3518",
+        "name": "Tracks for Matilda T.D.5910 cast type",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35182-tracks-somua-s-35-late--1214426",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3518",
+        "name": "Tracks for Somua S-35 Late",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35180-tracks-turan-zrinyi--1214425",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3518",
+        "name": "Tracks for Turan Zrinyi",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35162-tracks-pzkpfwiv-winterketten-type-1--1214424",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3516",
+        "name": "Tracks for Pz.Kpfw.IV Winterketten type 1",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35150-pzkpfwvi-tiger-transport-tracks--1214423",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3515",
+        "name": "Pz.Kpfw.VI Tiger transport tracks",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35143-type-95-ha-go-type98-shi-ke-tracks--1214418",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3514",
+        "name": "Type 95 \"Ha-Go\", Type98 \"Shi-Ke\" tracks",
+        "scale": "35",
+        "description": "New tool",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35178-m13-40-tracks--1214417",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3517",
+        "name": "M13/40 tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/1/7/1214417-13385-16",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35167-borgward-b-iv-late-sdkfz301-ausfb-c-tracks--1214416",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3516",
+        "name": "Borgward B-IV late (Sd.Kfz.301 Ausf.B-C) tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/1/6/1214416-13385-67",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35157-pzi-ausff-vk1801-pzii-ausfj-vk1601-kgs-61-500-130-tracks--1214414",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3515",
+        "name": "Pz.I Ausf.F (VK18.01), Pz.II Ausf.J (VK16.01) Kgs 61/500/130 tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/1/4/1214414-13385-87",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35106-m24-chaffee-t72e1-tracks--1214413",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3510",
+        "name": "M24 \"Chaffee\" T72E1 tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/1/3/1214413-13385-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35104-centurion-3-rubber-pads-type-tracks--1214412",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3510",
+        "name": "Centurion 3 rubber pads type tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/1/2/1214412-13385-72",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35088-9k37m1-buk-tracks--1214410",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3508",
+        "name": "9K37M1 BUK tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/1/0/1214410-13385-64",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35031-bt-2-bt-5-tracks--1214409",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3503",
+        "name": "BT-2, BT-5 tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/0/9/1214409-13385-99",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35020-t-34-550mm-m1942-winter-spring-type-2-tracks--1214407",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3502",
+        "name": "T-34 550mm M1942 Winter-spring Type 2 tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/0/7/1214407-13385-76",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/masterclub-mtl35010-pzkpfwiv-stug-iii-1943-45-v-open-horne-tracks--1214406",
+        "brand": "MasterClub",
+        "brandCatno": "MTL3501",
+        "name": "Pz.Kpfw.IV , StuG III 1943 - 45 \"V\", open horne tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/0/6/1214406-13385-92",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/draw-decal-44-dc9-18-allegiant-air-md-80s--1214470",
+        "brand": "Draw Decal",
+        "brandCatno": "44-DC9-1",
+        "name": "Allegiant Air MD-80s",
+        "scale": "144",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/7/0/1214470-23842-62",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1847-skoda-fabia-r5-aw-ts-158-tsouloftas--1214449",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "184",
+        "name": "Škoda Fabia R5 (AW-TS 158) \"TSOULOFTAS\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/4/4/9/1214449-20545-19",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fishbone-inc-fb32009-rmaf-bae-hawk-mk100-25th-anniversary-decal--1214378",
+        "brand": "Fishbone Inc.",
+        "brandCatno": "FB3200",
+        "name": "RMAF BAe Hawk Mk.100 25th Anniversary decal",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/3/7/8/1214378-26163-19",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fishbone-inc-fb48012-rmaf-bae-hawk-mk100-200-25th-anniversary-decal--1214371",
+        "brand": "Fishbone Inc.",
+        "brandCatno": "FB4801",
+        "name": "RMAF BAe Hawk Mk.100/200 25th Anniversary decal",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/3/7/1/1214371-26163-56",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/kotobukiya-kp461-lbcs-achilles-karina-mikazuki--1214243",
+        "brand": "",
+        "brandCatno": "KP46",
+        "name": "LBCS:Achilles Karina Mikazuki",
+        "scale": "Kotobukiya",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/4/3/1214243-27767-26",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/revell-85-1527-camaro-concept-car--1214251",
+        "brand": "Revell",
+        "brandCatno": "85-152",
+        "name": "Camaro Concept Car",
+        "scale": "25",
+        "description": "Changed ???",
+        "boxartUrl": "/products/img/2/5/1/1214251-31911-70",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are937-audi-quattro-a2-in-nx-47-hb--1214167",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE93",
+        "name": "Audi Quattro A2 (IN-NX 47) \"HB\"",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/6/7/1214167-20545-51",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are964-chevrolet-corvette-c3--1214147",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE96",
+        "name": "Chevrolet Corvette C3",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/4/7/1214147-20545-76",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are963-chevrolet-corvette-c3-mechart--1214146",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE96",
+        "name": "Chevrolet Corvette C3 \"MECHART\"",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/4/6/1214146-20545-75",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are960-chevrolet-corvette-c3-automotive-enterprise--1214145",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE96",
+        "name": "Chevrolet Corvette C3 \"AUTOMOTIVE ENTERPRISE\"",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/4/5/1214145-20545-21",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are959-chevrolet-corvette-c3-tf-001-neo-life-canada--1214144",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE95",
+        "name": "Chevrolet Corvette C3 #TF 001 \"NEO-LIFE of CANADA\"",
+        "scale": "43",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/1/4/4/1214144-20545-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are958-chevrolet-corvette-c3-tf-001-pacific-diesel-power--1214143",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE95",
+        "name": "Chevrolet Corvette C3 #TF 001 \"PACIFIC DIESEL POWER\"",
+        "scale": "43",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/4/3/1214143-20545-30",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/arena-modelli-are957b-chevrolet-corvette-c3-carrier--1214142",
+        "brand": "Arena Modelli",
+        "brandCatno": "ARE957",
+        "name": "Chevrolet Corvette C3 \"Carrier\"",
+        "scale": "43",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/1/4/2/1214142-20545-42",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/greenminiatures-gm72004-wg-russo-balt-1914--1216317",
+        "brand": "Greenminiatures",
+        "brandCatno": "GM72004-W",
+        "name": "Russo-Balt 1914",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/3/1/7/1216317-20234-92",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/greenminiatures-gm72005-wg-ford-tf-b-mod1920--1216315",
+        "brand": "Greenminiatures",
+        "brandCatno": "GM72005-W",
+        "name": "Ford Tf-b mod.1920",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/3/1/5/1216315-20234-90",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/industria-mechanika-imff014-aug-clydea--1216256",
+        "brand": "Industria Mechanika",
+        "brandCatno": "IMFF01",
+        "name": "AUG Clyde.A",
+        "scale": "6",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/5/6/1216256-51457-81",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dragon-6943-sdkfz234-2-puma--1216248",
+        "brand": "Dragon",
+        "brandCatno": "694",
+        "name": "Sd.Kfz.234/2 Puma",
+        "scale": "35",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/4/8/1216248-13385-57",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/hobby-boss-84515-soviet-bt-2-tank-mid--1216221",
+        "brand": "Hobby Boss",
+        "brandCatno": "8451",
+        "name": "Soviet BT-2 Tank (mid)",
+        "scale": "35",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/2/2/1/1216221-31820-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/ibg-models-72527-rwd-8-dwl-in-palestine-israeli-service--1216212",
+        "brand": "IBG Models",
+        "brandCatno": "7252",
+        "name": "RWD-8 DWL in Palestine (Israeli Service)",
+        "scale": "72",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/2/1/2/1216212-12741-87",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/polar-lights-pl-966-enterprise-nx-01--1216171",
+        "brand": "Polar Lights",
+        "brandCatno": "PL-96",
+        "name": "Enterprise NX-01",
+        "scale": "1000",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/1/7/1/1216171-37528-53",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-356-058--1216325",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 356 #058",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/2/5/1216325-20545-45",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/tempmodels-48346-wheels-set-su-34--1216288",
+        "brand": "Tempmodels",
+        "brandCatno": "4834",
+        "name": "Wheels set Su-34",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/8/8/1216288-49949-86",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/tempmodels-72346-wheels-set-su-34--1216287",
+        "brand": "Tempmodels",
+        "brandCatno": "7234",
+        "name": "Wheels set Su-34",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/8/7/1216287-49949-10",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/azimut-bvm35148-marmon-herrington-mkii-w-25mm-sa34--1216229",
+        "brand": "Azimut",
+        "brandCatno": "BVM3514",
+        "name": "MARMON HERRINGTON MKII w/25mm SA34",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/2/9/1216229-51292-47",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/yahu-models-yma7312-yak-3--1216218",
+        "brand": "Yahu Models",
+        "brandCatno": "YMA731",
+        "name": "Yak-3",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/8/1216218-17320-73",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/yahu-models-yma7310-sbd-dauntless--1216217",
+        "brand": "Yahu Models",
+        "brandCatno": "YMA731",
+        "name": "SBD Dauntless",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/7/1216217-17320-95",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/yahu-models-yma4881-spitfire-mki--1216215",
+        "brand": "Yahu Models",
+        "brandCatno": "YMA488",
+        "name": "Spitfire Mk.I",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/5/1216215-17320-60",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/yahu-models-yma3247-f4u-1d-corsair--1216214",
+        "brand": "Yahu Models",
+        "brandCatno": "YMA324",
+        "name": "F4U-1D Corsair",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/4/1216214-17320-23",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/yahu-models-yma3246-ki-45-toryu--1216213",
+        "brand": "Yahu Models",
+        "brandCatno": "YMA324",
+        "name": "Ki-45 Toryu",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/1/3/1216213-17320-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-jaguar-c-type-xkc-011--1216341",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Jaguar C-Type #XKC 011",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/4/1/1216341-20545-85",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-jaguar-d-type-xkd-602-351rw--1216340",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Jaguar D-Type #XKD 602 (351RW)",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/4/0/1216340-20545-68",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-jaguar-d-type-xkd-603-774rw--1216339",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Jaguar D-Type #XKD 603 (774RW)",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/3/9/1216339-20545-92",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-jaguar-d-type-xkc-404-okv-3--1216338",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Jaguar D-Type #XKC 404 (OKV 3)",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/3/8/1216338-20545-58",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-jaguar-d-type-xkc-402-okv-1--1216337",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Jaguar D-Type #XKC 402 (OKV 1)",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/3/7/1216337-20545-13",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-jaguar-c-type-xkc-047--1216336",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Jaguar C-Type #XKC 047",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/3/6/1216336-20545-17",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-356-062--1216323",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 356 #062",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/2/3/1216323-20545-21",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-356-sl-w83-4079--1216322",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 356 SL (W83-4079)",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/2/2/1216322-20545-23",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-356-sl-w83-4--1216320",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 356 SL (W83-4... )",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/2/0/1216320-20545-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-356-sl-xx4-3475--1216319",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 356 SL (xx4-3475 )",
+        "scale": "43",
+        "boxartUrl": "/products/img/3/1/9/1216319-20545-70",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-488-gte-4206-weather-tech--1216295",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 488 GTE #4206 \"Weather Tech\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/9/5/1216295-20545-86",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-488-gte-3812--1216294",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 488 GTE #3812",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/9/4/1216294-20545-71",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-458-italia-gtc-2808--1216293",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 458 Italia GTC #2808",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/9/3/1216293-20545-40",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-458-italia-gtc-2830--1216292",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 458 Italia GTC #2830",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/9/2/1216292-20545-72",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-458-italia-gtc--1216291",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 458 Italia GTC",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/9/1/1216291-20545-37",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/decals-model-ford-fiesta-r5-px68-dce-hertz--1216271",
+        "brand": "Decals for Model",
+        "brandCatno": "",
+        "name": "Ford Fiesta R5 (PX68 DCE) \"Hertz\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/7/1/1216271-20545-86",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1860-skoda-fabia-r5sybelles-ski--1216263",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "186",
+        "name": "Škoda Fabia R5\"Sybelles ski\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/6/3/1216263-20545-43",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1859-skoda-fabia-r5-daf--1216253",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Škoda Fabia R5 \"DAF\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/2/5/3/1216253-20545-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/e2046-fg11549-index-chan--1216280",
+        "brand": "E2046",
+        "brandCatno": "FG1154",
+        "name": "Index Chan",
+        "scale": "6",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/8/0/1216280-12741-17",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-6189-free-french-infantry--1216261",
+        "brand": "Italeri",
+        "brandCatno": "618",
+        "name": "Free French Infantry",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/6/1/1216261-12741-29",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/miniart-35315-german-feldgendarmerie--1216249",
+        "brand": "MiniArt",
+        "brandCatno": "3531",
+        "name": "German Feldgendarmerie",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/2/4/9/1216249-13385-76",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-35103-uh-1c-and-mi-24d--1216258",
+        "brand": "Italeri",
+        "brandCatno": "3510",
+        "name": "UH-1C & MI-24D",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/8/1216258-12741-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-35103-uh-1c-and-mi-24d--1216258",
+        "brand": "Italeri",
+        "brandCatno": "3510",
+        "name": "UH-1C & MI-24D",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/8/1216258-12741-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-6194-pegasus-bridge-dday-75-ann1944-2019--1216257",
+        "brand": "Italeri",
+        "brandCatno": "619",
+        "name": "Pegasus Bridge - D.Day 75°Ann.1944-2019",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/7/1216257-12741-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-6194-pegasus-bridge-dday-75-ann1944-2019--1216257",
+        "brand": "Italeri",
+        "brandCatno": "619",
+        "name": "Pegasus Bridge - D.Day 75°Ann.1944-2019",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/7/1216257-12741-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-6194-pegasus-bridge-dday-75-ann1944-2019--1216257",
+        "brand": "Italeri",
+        "brandCatno": "619",
+        "name": "Pegasus Bridge - D.Day 75°Ann.1944-2019",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/7/1216257-12741-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-6194-pegasus-bridge-dday-75-ann1944-2019--1216257",
+        "brand": "Italeri",
+        "brandCatno": "619",
+        "name": "Pegasus Bridge - D.Day 75°Ann.1944-2019",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/7/1216257-12741-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/italeri-6194-pegasus-bridge-dday-75-ann1944-2019--1216257",
+        "brand": "Italeri",
+        "brandCatno": "619",
+        "name": "Pegasus Bridge - D.Day 75°Ann.1944-2019",
+        "scale": "72",
+        "description": "Model set",
+        "boxartUrl": "/products/img/2/5/7/1216257-12741-89",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/quisttani-qs00121701a00-truck-loading-bay-lkw-laderampe--1216102",
+        "brand": "Quisttani",
+        "brandCatno": "QS00121701A0",
+        "name": "Truck Loading Bay / LKW Laderampe",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/1/0/2/1216102-40510-57",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/dieselkits-dk35-009-bulldog-with-cindy-screw--1216056",
+        "brand": "Dieselkits",
+        "brandCatno": "DK35-00",
+        "name": "The Bulldog with Cindy Screw",
+        "scale": "35",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/0/5/6/1216056-27767-59",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dieselkits-dk35-008-bulldog--1216055",
+        "brand": "Dieselkits",
+        "brandCatno": "DK35-00",
+        "name": "The Bulldog",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/5/5/1216055-27767-54",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/marabu-design-m72037-p-40n-special-hobby--1216065",
+        "brand": "Marabu Design",
+        "brandCatno": "M7203",
+        "name": "P-40N Special Hobby",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/6/5/1216065-40932-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/shapeways-vsehgxhqd-blackburn-shark-engine--1216004",
+        "brand": "Shapeways",
+        "brandCatno": "VSEHGXHQ",
+        "name": "Blackburn Shark Engine",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/0/4/1216004-14964-86",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/maxi-miniature-fr-064-ford-fiesta-rs-wrc-px61-awu-arthur-loyd--1216150",
+        "brand": "Maxi Miniature (FR)",
+        "brandCatno": "06",
+        "name": "Ford Fiesta RS WRC (PX61 AWU) \"Arthur Loyd\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/1/5/0/1216150-20545-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1858-ford-fiesta-r5-py63-lyu-mcb--1216050",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Ford Fiesta R5 (PY63 LYU) \"MCB\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/5/0/1216050-20545-47",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1857-skoda-fabia-r5-igol--1216037",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Škoda Fabia R5 \"IGOL\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/3/7/1216037-20545-50",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1856-skoda-fabia-r5-intermarche--1216035",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Škoda Fabia R5 \"Intermarché\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/3/5/1216035-20545-98",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/e2046-fg11542-jeanne-darc-alter-maid-version--1216031",
+        "brand": "E2046",
+        "brandCatno": "FG1154",
+        "name": "Jeanne d'Arc Alter Maid Version",
+        "scale": "7",
+        "description": "Changed decals",
+        "boxartUrl": "/products/img/0/3/1/1216031-12741-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/e2046-fg11538-sariel--1216030",
+        "brand": "E2046",
+        "brandCatno": "FG1153",
+        "name": "Sariel",
+        "scale": "8",
+        "description": "New tool",
+        "boxartUrl": "/products/img/0/3/0/1216030-12741-37",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/foxone-design-studio-f-5e-tiger-vfc-13--1215995",
+        "brand": "FoxOne design studio",
+        "brandCatno": "",
+        "name": "F-5E Tiger Ⅱ VFC-13",
+        "scale": "72",
+        "description": "Changed ???",
+        "boxartUrl": "/products/img/9/9/5/1215995-17841-21",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/asuka-model-35-0-m4a1-76mm-sherman--1215984",
+        "brand": "ASUKA Model",
+        "brandCatno": "35-0*",
+        "name": "M4A1 76mm Sherman",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/8/4/1215984-32809-24",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/aerografix-ag-3501-rooikat105--1215927",
+        "brand": "Aerografix",
+        "brandCatno": "AG 350",
+        "name": "Rooikat105",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/7/1215927-13385-42",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/das-werk-dw-35007-panzerkleinzerstoerer-rutscher--1215904",
+        "brand": "Das Werk",
+        "brandCatno": "DW 3500",
+        "name": "Panzerkleinzerstörer \"Rutscher\"",
+        "scale": "35",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/9/0/4/1215904-40682-70",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/okb-grigorov-s72421-wheels-m60-late--1215983",
+        "brand": "OKB Grigorov",
+        "brandCatno": "S7242",
+        "name": "Wheels for M60, late",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/8/3/1215983-17918-83",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/okb-grigorov-s72427-tracks-type-74--1215980",
+        "brand": "OKB Grigorov",
+        "brandCatno": "S7242",
+        "name": "Tracks for Type 74",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/8/0/1215980-17918-92",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/okb-grigorov-s72420-tracks-leclerc--1215979",
+        "brand": "OKB Grigorov",
+        "brandCatno": "S7242",
+        "name": "Tracks for Leclerc",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/7/9/1215979-17918-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/okb-grigorov-s72412-wheels-pzv-panther-with-16-bolts-and-16-rivets--1215975",
+        "brand": "OKB Grigorov",
+        "brandCatno": "S7241",
+        "name": "Wheels for Pz.V Panther, with 16 bolts and 16 rivets",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/7/5/1215975-17918-27",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/voyager-model-pe35999-scammell-recovery--1215925",
+        "brand": "Voyager Model",
+        "brandCatno": "PE3599",
+        "name": "Scammell Recovery",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/5/1215925-13385-73",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/voyager-model-vbs0219-m2-browning-machine-gun-with-shield--1215924",
+        "brand": "Voyager Model",
+        "brandCatno": "VBS021",
+        "name": "M2 Browning Machine Gun with Shield",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/2/4/1215924-13385-72",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-mclaren-honda-mp4-4-marlboro--1216001",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "McLaren-Honda MP4/4 \"Marlb***\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/0/1/1216001-20545-57",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-mclaren-honda-mp4-4-marlboro--1216000",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "McLaren-Honda MP4/4 \"Marlb***\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/0/0/0/1216000-20545-38",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-mclaren-honda-mp4-4-marlboro--1215999",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "McLaren-Honda MP4/4 \"Marlb***\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/9/9/9/1215999-20545-52",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-mclaren-honda-mp4-4-marlboro--1215998",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "McLaren-Honda MP4/4 \"Marlb***\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/9/9/8/1215998-20545-93",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-908-03-008-martini--1215900",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 908/03 #008 \"MARTINI\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/9/0/0/1215900-20545-74",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-908-03-009-gulf--1215899",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 908/03 #009 \"Gulf\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/9/9/1215899-20545-29",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-908-03-011-gulf--1215897",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 908/03 #011 \"Gulf\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/9/7/1215897-20545-92",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-porsche-908-03-008-gulf--1215895",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Porsche 908/03 #008 \"Gulf\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/8/9/5/1215895-20545-61",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/young-miniatures-ym1880-usmc-pacific-wwii--1215990",
+        "brand": "Young Miniatures",
+        "brandCatno": "YM188",
+        "name": "USMC Pacific WWII",
+        "scale": "10",
+        "description": "New tool",
+        "boxartUrl": "/products/img/9/9/0/1215990-15654-53",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/modell-trans-modellbau-mt72192-pionierpanzer-1--1215787",
+        "brand": "Modell Trans Modellbau",
+        "brandCatno": "MT7219",
+        "name": "Pionierpanzer 1",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/8/7/1215787-14248-28",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/decals-model-peugeot-208-t16-fd-208-pd-ikh--1215735",
+        "brand": "Decals for Model",
+        "brandCatno": "",
+        "name": "Peugeot 208 T16 (FD 208 PD) \"IKH\"",
+        "scale": "24",
+        "boxartUrl": "/products/img/7/3/5/1215735-20545-22",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/decals-model-peugeot-208-t16-fd-208-pd-ikh--1215734",
+        "brand": "Decals for Model",
+        "brandCatno": "",
+        "name": "Peugeot 208 T16 (FD 208 PD) \"IKH\"",
+        "scale": "24",
+        "boxartUrl": "/products/img/7/3/4/1215734-20545-84",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/hobby-boss-81771-persian-cat-f-14a-tomcat--1215731",
+        "brand": "Hobby Boss",
+        "brandCatno": "8177",
+        "name": "Persian Cat F-14A Tomcat",
+        "scale": "48",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/7/3/1/1215731-14481-25",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/schatton-modellbau-72014-german-4-5to-trailer-with-watertank--1215719",
+        "brand": "Schatton Modellbau",
+        "brandCatno": "7201",
+        "name": "German 4,5to. Trailer with Watertank",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/1/9/1215719-17291-96",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/luftfahrtverlag-start-ld-011-decal-sheet-early-type-ix-c-u-boat--1215770",
+        "brand": "Luftfahrtverlag Start",
+        "brandCatno": "LD 01",
+        "name": "Decal-sheet for early Type IX C U-Boat",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/7/0/1215770-12140-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/rallye-miniature-1855-citroen-ds3-r5-france-toner--1215733",
+        "brand": "Rallye-Miniature",
+        "brandCatno": "185",
+        "name": "Citroën DS3 R5 \"France toner\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/7/3/3/1215733-20545-91",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dg-artwork-miniatures-dg57f014-live-24-civilian-figure-series-01-00--1215818",
+        "brand": "DG Artwork Miniatures",
+        "brandCatno": "DG57F01",
+        "name": "Live 24 Civilian Figure Series 01:00",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/1/8/1215818-22112-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm24-m24a-bf-109g-10-wnf-dianna--1215844",
+        "brand": "TopNotch",
+        "brandCatno": "TNM24-M24",
+        "name": "Bf 109G-10 WNF/Dianna",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/4/4/1215844-17313-42",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m24a-bf-109g-10-wnf-dianna--1215843",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M24",
+        "name": "Bf 109G-10 WNF/Dianna",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/4/3/1215843-17313-50",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m24a-bf-109g-10-wnf-dianna--1215842",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M24",
+        "name": "Bf 109G-10 WNF/Dianna",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/4/2/1215842-17313-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m24a-bf-109g-10-wnf-dianna--1215841",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M24",
+        "name": "Bf 109G-10 WNF/Dianna",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/8/4/1/1215841-17313-54",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-s010-pearl-harbour-p-40-welch-and-taylor--1215760",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-S01",
+        "name": "Pearl Harbour P-40 (Welch and Taylor)",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/6/0/1215760-17313-44",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s010-pearl-harbour-p-40-welch-and-taylor--1215759",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S01",
+        "name": "Pearl Harbour P-40 (Welch and Taylor)",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/5/9/1215759-17313-52",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s005-spitfire-mkia-qv-n3200--1215756",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S00",
+        "name": "Spitfire MkIa – QV – N3200",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/5/6/1215756-17313-64",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s006-spitfire-mk1a-gr-u--1215754",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S00",
+        "name": "Spitfire Mk1a GR-U",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/5/4/1215754-17313-20",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s004-spitfire-mk1a-dw-k--1215751",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S00",
+        "name": "Spitfire MK1a DW-K",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/5/1/1215751-17313-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-ir005-spitfire-mk1a-geoffrey-boy-wellum--1215750",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-IR00",
+        "name": "Spitfire Mk1a – Geoffrey ‘Boy’ Wellum",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/5/0/1215750-17313-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-ir005-spitfire-mk1a-geoffrey-boy-wellum--1215749",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-IR00",
+        "name": "Spitfire Mk1a – Geoffrey ‘Boy’ Wellum",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/4/9/1215749-17313-38",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s009-spitfire-mk1a-brian-lane-qv-k--1215748",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S00",
+        "name": "Spitfire Mk1a – Brian Lane – QV-K",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/4/8/1215748-17313-69",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s003-spitfire-mk-i-fz-l--1215747",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S00",
+        "name": "Spitfire Mk I – FZ-L",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/4/7/1215747-17313-47",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-s007-spitfire-mk-1a-zpa-malan--1215746",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-S00",
+        "name": "Spitfire Mk 1a – ZPA (Malan)",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/7/4/6/1215746-17313-12",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm32-m04d-fw190-a8-pattern-4--1215697",
+        "brand": "TopNotch",
+        "brandCatno": "TNM32-M04",
+        "name": "FW190-A8 (Pattern 4)",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/9/7/1215697-17313-49",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm48-m04d-fw190-a8-pattern-4--1215696",
+        "brand": "TopNotch",
+        "brandCatno": "TNM48-M04",
+        "name": "FW190-A8 (Pattern 4)",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/9/6/1215696-17313-62",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/topnotch-tnm72-m04d-fw190-a8-pattern-4--1215695",
+        "brand": "TopNotch",
+        "brandCatno": "TNM72-M04",
+        "name": "FW190-A8 (Pattern 4)",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/9/5/1215695-17313-33",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/grane-g72321-rapier-fsa2-rapier-darkfire--1215654",
+        "brand": "GRANE",
+        "brandCatno": "G72321 (72321)",
+        "name": "\"Rapier\" FSA2 \"Rapier Darkfire\"",
+        "scale": "72",
+        "description": "Changed ???",
+        "boxartUrl": "/products/img/6/5/4/1215654-29300-74",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/grane-72310-200--1215638",
+        "brand": "GRANE",
+        "brandCatno": "7231",
+        "name": "С-200 Ангара",
+        "scale": "72",
+        "description": "Changed ???",
+        "boxartUrl": "/products/img/6/3/8/1215638-29300-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/zebrano-72021-125m-55--1215633",
+        "brand": "Zebrano",
+        "brandCatno": "7202",
+        "name": "Кубинский ЗРК С-125M Печора / Т-55",
+        "scale": "72",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/6/3/3/1215633-29300-56",
+        "year": "2017"
+    },
+    {
+        "scalematesUrl": "/kits/armata-models-am7232-pepelatz--1215590",
+        "brand": "Armata Models",
+        "brandCatno": "AM723",
+        "name": "Pepelatz",
+        "scale": "72",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/9/0/1215590-24091-68",
+        "year": "2018"
+    },
+    {
+        "scalematesUrl": "/kits/hasegawa-sp406-voyager--1215517",
+        "brand": "Hasegawa",
+        "brandCatno": "SP406 (52206)",
+        "name": "Voyager",
+        "scale": "48",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/5/1/7/1215517-27767-71",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/hasegawa-sp398-nakajima-ki43-i-hayabusa-oscar-emma--1215516",
+        "brand": "Hasegawa",
+        "brandCatno": "SP39",
+        "name": "Nakajima Ki43-I Hayabusa (Oscar) Emma",
+        "scale": "48",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/5/1/6/1215516-27767-47",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/hasegawa-sp404-nakajima-ki43-i-hayabusa-oscar-chika--1215514",
+        "brand": "Hasegawa",
+        "brandCatno": "SP40",
+        "name": "Nakajima Ki43-I Hayabusa (Oscar) Chika",
+        "scale": "48",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/5/1/4/1215514-27767-24",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dieselkits-dk24-016-bulldog-with-susan-slick--1215481",
+        "brand": "Dieselkits",
+        "brandCatno": "DK24-01",
+        "name": "The Bulldog with Susan Slick",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/4/8/1/1215481-50924-73",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dieselkits-dk35-012-bulldog-with-dogmother-rough-john--1215479",
+        "brand": "Dieselkits",
+        "brandCatno": "DK35-01",
+        "name": "The Bulldog with Dogmother + Rough John",
+        "scale": "35",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/4/7/9/1215479-50924-40",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dieselkits-dk24-008-bulldog-with-cindy-screw--1215478",
+        "brand": "Dieselkits",
+        "brandCatno": "DK24-00",
+        "name": "The Bulldog with Cindy Screw",
+        "scale": "24",
+        "description": "Changed parts",
+        "boxartUrl": "/products/img/4/7/8/1215478-50924-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/dieselkits-dk24-007-bulldog--1215449",
+        "brand": "Dieselkits",
+        "brandCatno": "DK24-00",
+        "name": "The Bulldog",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/4/9/1215449-50924-59",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-422800-chibi-maru-fleet-musashi--1215442",
+        "brand": "Fujimi",
+        "brandCatno": "422800 (2)",
+        "name": "Chibi-Maru Fleet Musashi",
+        "scale": "Egg",
+        "description": "Changed ???",
+        "boxartUrl": "/products/img/4/4/2/1215442-27767-91",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/fujimi-422794-chibi-maru-fleet-yamato--1215441",
+        "brand": "Fujimi",
+        "brandCatno": "422794 (1)",
+        "name": "Chibi-Maru Fleet Yamato",
+        "scale": "Egg",
+        "description": "Changed ???",
+        "boxartUrl": "/products/img/4/4/1/1215441-27767-41",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/bandai-spirits-5057607-grendizer-infinitism--1215435",
+        "brand": "Bandai Spirits",
+        "brandCatno": "5057607 (2464261)",
+        "name": "Grendizer (Infinitism)",
+        "scale": "144",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/5/1215435-27767-90",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/pit-road-jpm12-jmsdf-dd-119-asahi--1215526",
+        "brand": "Pit-Road",
+        "brandCatno": "JPM1",
+        "name": "JMSDF DD-119 Asahi",
+        "scale": "700",
+        "boxartUrl": "/products/img/5/2/6/1215526-27767-77",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/pit-road-jpm11-jmsdf-dd-115-akizuki--1215525",
+        "brand": "Pit-Road",
+        "brandCatno": "JPM1",
+        "name": "JMSDF DD-115 Akizuki",
+        "scale": "700",
+        "boxartUrl": "/products/img/5/2/5/1215525-27767-15",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/lone-star-models-lsm-480722-hansa-brandenburg-d-1-cockpit--1215645",
+        "brand": "Lone Star Models",
+        "brandCatno": "LSM 48072",
+        "name": "Hansa-Brandenburg D-1 cockpit",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/5/1215645-33840-81",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/lone-star-models-lsm-480721-h-34-wheel-set--1215643",
+        "brand": "Lone Star Models",
+        "brandCatno": "LSM 48072",
+        "name": "H-34 wheel set",
+        "scale": "48",
+        "description": "New tool",
+        "boxartUrl": "/products/img/6/4/3/1215643-33840-84",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/model-monkey-24-bc-602-b-radio-frequency-control-box-bc-602-b--1215560",
+        "brand": "Model Monkey",
+        "brandCatno": "24-BC-602-",
+        "name": "Radio Frequency Control Box BC-602-B",
+        "scale": "24",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/6/0/1215560-29191-23",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/model-monkey-32-bc-602-b-radio-frequency-control-box-bc-602-b--1215559",
+        "brand": "Model Monkey",
+        "brandCatno": "32-BC-602-",
+        "name": "Radio Frequency Control Box BC-602-B",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/5/9/1215559-29191-37",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/model-monkey-32-drop-tank-75-usaaf-75-gallon-drop-tank--1215557",
+        "brand": "Model Monkey",
+        "brandCatno": "32-drop-tank-7",
+        "name": "USAAF 75 gallon Drop Tank",
+        "scale": "32",
+        "description": "New tool",
+        "boxartUrl": "/products/img/5/5/7/1215557-29191-61",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/brengun-brl72170-c-130j-engine-set--1215523",
+        "brand": "Brengun",
+        "brandCatno": "BRL7217",
+        "name": "C-130J Engine set",
+        "scale": "72",
+        "description": "Changed box",
+        "boxartUrl": "/products/img/5/2/3/1215523-25831-50",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/friulmodel-atl-183-stuart-light-tank-t36e6-type-track--1215437",
+        "brand": "Friulmodel",
+        "brandCatno": "ATL-18",
+        "name": "Stuart light tank T36E6 type track",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/7/1215437-27767-95",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/friulmodel-atl-182-cruiser-a9-mk-i-cruiser-a10-mk-ii-acs-tracks--1215436",
+        "brand": "Friulmodel",
+        "brandCatno": "ATL-18",
+        "name": "Cruiser A9 Mk I / Cruiser A10 Mk II ACS tracks",
+        "scale": "35",
+        "description": "New tool",
+        "boxartUrl": "/products/img/4/3/6/1215436-27767-37",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-488-gte-3810-weather-tech--1215659",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 488 GTE #3810 \"Weather Tech\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/6/5/9/1215659-20545-94",
+        "year": "2019"
+    },
+    {
+        "scalematesUrl": "/kits/le-mans-decals-ferrari-488-gte-gt3-4404-weather-tech--1215658",
+        "brand": "Le Mans Decals",
+        "brandCatno": "",
+        "name": "Ferrari 488 GTE #GT3 4404 \"Weather Tech\"",
+        "scale": "43",
+        "boxartUrl": "/products/img/6/5/8/1215658-20545-57",
+        "year": "2019"
+    }
+]
